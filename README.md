@@ -9,3 +9,5 @@
 # Creating new Brach 
 
 1. ```git checkout -b nameOfBranch```
+2. To delete branch use command ```git branch -d nameOfBranch```
+3. to change the name of branch use command ```git branch -M newName``` in the branch where you want to change
