@@ -6,3 +6,6 @@
 4. Now Create a empty Repo in Github
 5. then follow command over there 
 
+# Creating new Brach 
+
+1. ```git checkout -b nameOfBranch```
